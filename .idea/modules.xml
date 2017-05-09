@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Continentes.iml" filepath="$PROJECT_DIR$/Continentes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProvaRafa.iml" filepath="$PROJECT_DIR$/ProvaRafa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

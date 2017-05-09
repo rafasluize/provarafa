@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Continentes</string>
+    <string name="nome_busca">Nome do continente</string>
+    <string name="botao_busca">Buscar</string>
+</resources>
